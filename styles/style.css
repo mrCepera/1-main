@@ -1,0 +1,82 @@
+#heroButton {
+    background-color: #4262FF;
+    color: white;
+}
+
+.link {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 133%;
+    color: #4262ff;
+}
+
+h1,
+h2 {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 117%;
+    letter-spacing: 0.02em;
+    color: #050038;
+}
+
+p {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 133%;
+
+}
+
+.heroText {
+
+    color: #050038;
+}
+
+.sectionText {
+    color: rgba(5, 0, 56, 0.6);
+
+}
+
+#img1 {
+    width: 604px;
+    height: 461px;
+}
+
+#img2 {
+    width: 550px;
+    height: 535px;
+}
+
+#img3 {
+    width: 550px;
+    height: 498px;
+}
+
+#footer-text {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #fff;
+}
+
+header a {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-decoration: none;
+    color: #050038;
+
+}
+
+.heroForm+p {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 143%;
+    color: #050038;
+}
